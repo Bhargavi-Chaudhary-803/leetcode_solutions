@@ -3,13 +3,13 @@ public:
     vector<int> shuffle(vector<int>& nums, int n) {
     int i;
 
-    vector<int> indice;
+    vector<int> result;
     for(i = 0; i < n ; i++){
-        indice.push_back(nums[i]);
-        indice.push_back(nums[i+n]);
+        result.push_back(nums[i]);
+        result.push_back(nums[i+n]);
         
     }
 
-    return indice;
+    return result;
     }
 };
