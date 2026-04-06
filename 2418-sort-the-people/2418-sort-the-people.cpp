@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
         int n = names.size();
+        int i,j;
         string temp; int moli;
-        for(int i = 0; i < n-1; i++){
-            
-            for(int j = 0; j < n-1-i; j++){
-                if(heights[j]<heights[j+1]){
-                    moli = heights[j];
-                    heights[j] = heights[j+1];
-                    heights[j+1] = moli;
-                    temp = names[j];
-                    names[j] = names[j+1];
-                    names[j+1] = temp;
-                }
+        for(i=1;i<n;i++){
+            moli = heights[i];
+            temp = names[i];
+            j = i-1;
+            while(j>=0 && heights[j]<moli){
+                heights[j+1] = heights[j];
+                names[j+1] = names[j];
+                j--;
             }
+            heights[j+1] = moli;
+            names[j+1] = temp;
         }
         return names;
     }
