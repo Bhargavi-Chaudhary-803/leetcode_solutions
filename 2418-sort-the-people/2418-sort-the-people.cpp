@@ -4,18 +4,23 @@ public:
         int n = names.size();
         int i,j;
         string temp; int moli;
-        for(i=1;i<n;i++){
-            moli = heights[i];
-            temp = names[i];
-            j = i-1;
-            while(j>=0 && heights[j]<moli){
-                heights[j+1] = heights[j];
-                names[j+1] = names[j];
-                j--;
+        for(i=0;i<n-1;i++){
+            int key = i;
+            for(j=i+1;j<n;j++){
+                if(heights[j]>heights[key]){
+                    key = j;
+                }
             }
-            heights[j+1] = moli;
-            names[j+1] = temp;
+
+        moli = heights[i];
+        heights[i] = heights[key];
+        heights[key] = moli;
+
+        temp = names[i];
+        names[i] = names[key];
+        names[key] = temp;
         }
         return names;
+
     }
 };
