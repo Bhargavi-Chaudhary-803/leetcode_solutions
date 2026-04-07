@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -48,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
@@ -64,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -72,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
