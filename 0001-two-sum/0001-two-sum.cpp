@@ -1,14 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (nums[i] + nums[j] == target) {
-                    return {i, j};
-                }
+        unordered_map<int, int> h;
+        for (int i = 0; i < nums.size(); ++i) {
+            h[nums[i]] = i;
+        }
+ 
+        for (int i = 0; i < nums.size(); ++i) {
+            int y = target - nums[i];
+            if (h.find(y) != h.end() && h[y] != i) {
+                return {i, h[y]};
             }
         }
-        return {};
+ 
+        throw invalid_argument("No two sum solution");
     }
 };
