@@ -1,27 +1,24 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        if (!head || !head->next) 
-        return head;
-
         ListNode* dummy = new ListNode(0);
-        ListNode* curr = head;
 
-        while (curr) {
-            ListNode* nextNode = curr->next;
-            ListNode* prev = dummy;
+        while (head != NULL) {
+            ListNode* curr = head;
+            head = head->next;
 
-            while (prev->next && prev->next->val < curr->val) {
-                prev = prev->next;
+            ListNode* ptr = dummy;
+
+            while (ptr->next != NULL && ptr->next->val < curr->val) {
+                ptr = ptr->next;
             }
 
-            curr->next = prev->next;
-            prev->next = curr;
-            curr = nextNode;
+            curr->next = ptr->next;
+            ptr->next = curr;
         }
 
-        ListNode* sortedHead = dummy->next;
+        ListNode* ans = dummy->next;
         delete dummy;
-        return sortedHead;
+        return ans;
     }
 };
