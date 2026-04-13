@@ -1,24 +1,48 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        ListNode* dummy = new ListNode(0);
+        return mergeSort(head);
+    }
 
-        while (head != NULL) {
-            ListNode* curr = head;
-            head = head->next;
+    ListNode* mergeSort(ListNode* head) {
+        if (head == NULL || head->next == NULL)
+            return head;
 
-            ListNode* ptr = dummy;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
 
-            while (ptr->next != NULL && ptr->next->val < curr->val) {
-                ptr = ptr->next;
-            }
-
-            curr->next = ptr->next;
-            ptr->next = curr;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        ListNode* ans = dummy->next;
-        delete dummy;
-        return ans;
+        ListNode* mid = slow->next;
+        slow->next = NULL;
+
+        ListNode* left = mergeSort(head);
+        ListNode* right = mergeSort(mid);
+
+        return merge(left, right);
+    }
+
+    ListNode* merge(ListNode* a, ListNode* b) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while (a != NULL && b != NULL) {
+            if (a->val <= b->val) {
+                tail->next = a;
+                a = a->next;
+            } else {
+                tail->next = b;
+                b = b->next;
+            }
+            tail = tail->next;
+        }
+
+        if (a != NULL) tail->next = a;
+        else tail->next = b;
+
+        return dummy.next;
     }
 };
