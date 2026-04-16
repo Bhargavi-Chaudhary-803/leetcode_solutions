@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
