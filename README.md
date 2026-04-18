@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
