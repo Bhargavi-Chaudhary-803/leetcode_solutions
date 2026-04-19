@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -122,4 +123,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
