@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
