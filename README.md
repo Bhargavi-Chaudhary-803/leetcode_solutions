@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
