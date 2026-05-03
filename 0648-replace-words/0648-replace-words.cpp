@@ -5,18 +5,17 @@ public:
         string word, result = "";
 
         while (ss >> word) {
-            string replacement = word;
+            string best = word;
 
-            for (int i = 0; i < dictionary.size(); i++) {
-                string root = dictionary[i];
-                if (word.substr(0, root.length()) == root) {
-                    if (root.length() < replacement.length()) {
-                        replacement = root;
+            for (auto &root : dictionary) {
+                if (word.find(root) == 0) {
+                    if (root.length() < best.length()) {
+                        best = root;
                     }
                 }
             }
 
-            result += replacement + " ";
+            result += best + " ";
         }
 
         result.pop_back();
