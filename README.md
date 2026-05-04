@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -168,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
