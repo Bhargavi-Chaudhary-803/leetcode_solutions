@@ -8,23 +8,23 @@ public:
             for(int i = 0; i<n-2; i++) {
                 if(i > 0 && nums[i] == nums[i - 1])
                 continue;
-            int l = i + 1;
-            int r = n - 1;
-            while(l < r) {
-                int sum = nums[i] + nums[l] + nums[r];
+            int x = i + 1;
+            int y = n - 1;
+            while(x < y) {
+                int sum = nums[i] + nums[x] + nums[y];
                 if(sum == 0) {
-                    ans.push_back({nums[i], nums[l], nums[r]});
-                    while(l < r && nums[l] == nums[l + 1])
-                        l++;
-                    while(l < r && nums[r] == nums[r - 1])
-                        r--;
-                    l++;
-                    r--;
+                    ans.push_back({nums[i], nums[x], nums[y]});
+                    while(x < y && nums[x] == nums[x + 1])
+                        x++;
+                    while(x < y && nums[y] == nums[y - 1])
+                        y--;
+                    x++;
+                    y--;
                 }
                 else if(sum < 0)
-                    l++;
+                    x++;
                 else
-                    r--;
+                    y--;
             }
         }
         return ans;
