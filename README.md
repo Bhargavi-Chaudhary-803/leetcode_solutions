@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
