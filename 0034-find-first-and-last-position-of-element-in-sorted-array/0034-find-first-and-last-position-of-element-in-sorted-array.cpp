@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int firstPos(vector<int>& nums, int target){
+    int first(vector<int>& nums, int target){
         int n = nums.size();
         int low = 0;
         int high = n-1;
@@ -25,7 +25,7 @@ public:
         return first;
     }
 
-    int lastPos(vector<int>& nums, int target){
+    int second(vector<int>& nums, int target){
         int n = nums.size();
         int low = 0;
         int high = n-1;
@@ -50,6 +50,6 @@ public:
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        return {firstPos(nums, target), lastPos(nums, target)};
+        return {first(nums, target), second(nums, target)};
     }
 };
