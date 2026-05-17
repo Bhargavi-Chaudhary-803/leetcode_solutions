@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0057-insert-interval](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0135-candy](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0135-candy/) | Hard |
 | [0397-integer-replacement](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
