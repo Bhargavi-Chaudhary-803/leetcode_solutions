@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0135-candy](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0135-candy/) | Hard |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
