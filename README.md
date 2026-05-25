@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0135-candy](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0136-single-number/) | Easy |
@@ -137,11 +138,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
