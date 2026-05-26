@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
