@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
