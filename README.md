@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
