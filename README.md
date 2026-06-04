@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
