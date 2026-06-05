@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0390-elimination-game](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0390-elimination-game/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
