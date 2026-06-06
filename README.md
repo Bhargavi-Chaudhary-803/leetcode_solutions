@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0221-maximal-square](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0228-summary-ranges](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0221-maximal-square](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0397-integer-replacement](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0221-maximal-square](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
