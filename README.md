@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0135-candy/) | Hard |
 | [0397-integer-replacement](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
