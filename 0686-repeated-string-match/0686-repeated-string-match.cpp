@@ -1,23 +1,23 @@
 class Solution {
 public:
     int repeatedStringMatch(string a, string b) {
-        string s = a;
-        int count = 1;
+        string s = """";
+        int x = (b.size() + a.size() - 1) / a.size();
 
-        while(s.size() < b.size()){
+        for(int i = 0; i < x; i++){
             s += a;
-            count++;
         }
 
-        if(s.find(b) != string::npos)
-            return count;
+        if(s.find(b) != string::npos){
+            return x;
+        }
 
         else{
             s += a;
         }
 
         if(s.find(b) != string::npos){
-            return count+1;
+            return x+1;
         }
 
         return -1;
