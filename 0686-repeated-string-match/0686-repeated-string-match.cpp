@@ -1,24 +1,19 @@
 class Solution {
 public:
     int repeatedStringMatch(string a, string b) {
-        string s = """";
-        int x = (b.size() + a.size() - 1) / a.size();
+        int k = (b.size() + a.size() - 1) / a.size(); // ceil(|b| / |a|)
 
-        for(int i = 0; i < x; i++){
+        string s;
+        for (int i = 0; i < k; i++)
             s += a;
-        }
 
-        if(s.find(b) != string::npos){
-            return x;
-        }
+        if (s.find(b) != string::npos)
+            return k;
 
-        else{
-            s += a;
-        }
+        s += a;
 
-        if(s.find(b) != string::npos){
-            return x+1;
-        }
+        if (s.find(b) != string::npos)
+            return k + 1;
 
         return -1;
     }
