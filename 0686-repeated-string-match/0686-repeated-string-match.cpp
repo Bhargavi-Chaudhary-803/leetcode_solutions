@@ -1,7 +1,7 @@
 class Solution {
 public:
     int repeatedStringMatch(string a, string b) {
-        int k = (b.size() + a.size() - 1) / a.size(); // ceil(|b| / |a|)
+        int k = (b.size() + a.size() - 1) / a.size();
 
         string s;
         for (int i = 0; i < k; i++)
