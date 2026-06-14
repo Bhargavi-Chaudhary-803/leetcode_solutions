@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
+| [0686-repeated-string-match](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -254,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0319-bulb-switcher/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
