@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0038-count-and-say](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
