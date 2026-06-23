@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0397-integer-replacement](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
