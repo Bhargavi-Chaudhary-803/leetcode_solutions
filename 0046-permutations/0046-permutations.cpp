@@ -2,30 +2,21 @@ class Solution {
 public:
     vector<vector<int>> ans;
 
-    void solve(vector<int>& nums, vector<int>& curr, vector<bool>& used) {
-        if (curr.size() == nums.size()) {
-            ans.push_back(curr);
+    void solve(vector<int>& nums, int x) {
+        if (x == nums.size()) {
+            ans.push_back(nums);
             return;
         }
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (used[i]) continue;
-
-            used[i] = true;
-            curr.push_back(nums[i]);
-
-            solve(nums, curr, used);
-
-            curr.pop_back();
-            used[i] = false;
+        for (int i = x; i < nums.size(); i++) {
+            swap(nums[x], nums[i]);
+            solve(nums, x + 1);
+            swap(nums[x], nums[i]);
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> curr;
-        vector<bool> used(nums.size(), false);
-
-        solve(nums, curr, used);
+        solve(nums, 0);
         return ans;
     }
 };
