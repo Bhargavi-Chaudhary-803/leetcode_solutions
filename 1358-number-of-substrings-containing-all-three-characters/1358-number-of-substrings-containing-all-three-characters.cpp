@@ -1,14 +1,15 @@
 class Solution {
 public:
     int numberOfSubstrings(std::string s) {
+        int n = s.size();
         int count[3] = {0, 0, 0};
         int left = 0, ans = 0;
         
-        for (int right = 0; right < s.length(); ++right) {
+        for (int right = 0; right < n; ++right) {
             count[s[right] - 'a']++;
             
             while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
-                ans += s.length() - right;
+                ans += n - right;
                 count[s[left] - 'a']--;
                 left++;
             }
