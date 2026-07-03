@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
 | [0686-repeated-string-match](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
