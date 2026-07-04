@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0046-permutations/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
