@@ -8,8 +8,7 @@ public:
             if (s.size() < 3)
                 continue;
             for (int j = 1; j < s.size() - 1; j++) {
-                if (s[j] > s[j - 1] && s[j] > s[j + 1] ||
-                    s[j] < s[j - 1] && s[j] < s[j + 1]) {
+                if (s[j] > s[j - 1] && s[j] > s[j + 1] || s[j] < s[j - 1] && s[j] < s[j + 1]) {
                     count++;
                 }
             }
