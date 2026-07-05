@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
