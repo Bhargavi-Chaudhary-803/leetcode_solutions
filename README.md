@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0038-count-and-say](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
