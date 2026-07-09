@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0754-reach-a-number](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0754-reach-a-number/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
