@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
