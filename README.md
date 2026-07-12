@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0648-replace-words/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/Bhargavi-Chaudhary-803/leetcode_solutions/tree/main/2418-sort-the-people/) | Easy |
 ## String
